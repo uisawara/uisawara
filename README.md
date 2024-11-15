@@ -6,5 +6,5 @@
   - [UnityProjectCatalog](https://github.com/uisawara/UnityProjectCatalog)
 - DeclarativeProjectSettings
   - [UnitySettingsConfigurator](https://github.com/uisawara/UnitySettingsConfigurator)
-- TaskRunnerGUI
+- npm TaskRunnerGUI
   - [unity-npmscriptwindow](https://github.com/uisawara/unity-npmscriptswindow)
