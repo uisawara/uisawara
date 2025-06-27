@@ -4,7 +4,7 @@
 
 - Layered storage and cache for C#
   - C#向けのファイルストレージ、メモリストレージ、キャッシュなどストレージのレイヤリングを記述しやすくするライブラリ
-  - https://github.com/uisawara/Mmzkworks.StorageSharp
+  - [Mmzkworks.StorageSharp](https://github.com/uisawara/Mmzkworks.StorageSharp)
 
 ## For Unity
 
