@@ -13,7 +13,7 @@
 
 ## For Unity
 
-- SimpleHttpServer for Unity
+- usimplehttpserver : SimpleHttpServer for Unity
   - Unity製アプリに簡易なAPIサーバー機能を持たせるためのパッケージ
   - 専用のC# Attribute付与でメソッドに対してAPIルーティングを設定できて、外部コントロールインタフェース対応やデバッグ用途が捗ります。
   - [usimplehttpserver](https://github.com/uisawara/usimplehttpserver)
