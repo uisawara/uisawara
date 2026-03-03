@@ -1,5 +1,3 @@
-いろんなソフトウェアを作り続けるフリーランスのソフトウェアエンジニアです。
-
 ## For C#
 
 - Layered storage and cache for C#
