@@ -11,10 +11,6 @@
 
 ## For Unity
 
-- musiderun
-  - Unity Editorで開発を続けたまま、バックグラウンドでプロジェクト複製を使ったテスト実行、ビルド実行ができるようにしたいパッケージです。
-  - git worktree によるミラー同期と、別 Unity プロセスでのバッチビルド・テスト実行を行います。
-  - [musiderun](https://github.com/uisawara/musiderun)
 - usimplehttpserver : SimpleHttpServer for Unity
   - Unity製アプリに簡易なAPIサーバー機能を持たせるためのパッケージ
   - 専用のC# Attribute付与でメソッドに対してAPIルーティングを設定できて、外部コントロールインタフェース対応やデバッグ用途が捗ります。
