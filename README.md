@@ -1,9 +1,3 @@
-## For C#
-
-- Layered storage and cache for C#
-  - C#向けのファイルストレージ、メモリストレージ、キャッシュなどストレージのレイヤリングを記述しやすくするライブラリ
-  - [Mmzkworks.StorageSharp](https://github.com/uisawara/Mmzkworks.StorageSharp)
-
 ## For Unity
 
 - unitypackages : 幾つかのエディタ拡張 UPM集
@@ -13,11 +7,9 @@
   - Unity製アプリに簡易なAPIサーバー機能を持たせるためのパッケージ
   - 専用のC# Attribute付与でメソッドに対してAPIルーティングを設定できて、外部コントロールインタフェース対応やデバッグ用途が捗ります。
   - [usimplehttpserver](https://github.com/uisawara/usimplehttpserver)
-- ProjectOverview
-  - [UnityProjectCatalog](https://github.com/uisawara/UnityProjectCatalog)
-- DeclarativeProjectSettings
-  - [UnitySettingsConfigurator](https://github.com/uisawara/UnitySettingsConfigurator)
-- npm TaskRunnerGUI
-  - [unity-npmscriptwindow](https://github.com/uisawara/unity-npmscriptswindow)
-- Package for experimenting with UI automated testing in Unity development
-  - [unide](https://github.com/uisawara/unide)
+
+## For C#
+
+- Layered storage and cache for C#
+  - C#向けのファイルストレージ、メモリストレージ、キャッシュなどストレージのレイヤリングを記述しやすくするライブラリ
+  - [Mmzkworks.StorageSharp](https://github.com/uisawara/Mmzkworks.StorageSharp)
