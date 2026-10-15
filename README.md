@@ -5,6 +5,7 @@
   - asmdefの依存グラフ表示
   - GameObject, Prefabの依存グラフ表示
   - Scene内GameObject・Project内Assetへのショートカットリスト
+  - Scene, Project, Componentに対しての汎用Validation
   - などなどの詰め合わせパック (UPMで個別installできます)
   - [mmzkworks-unitypackages](https://github.com/uisawara/mmzkworks-unitypackages)
 - usimplehttpserver : SimpleHttpServer for Unity
