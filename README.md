@@ -1,7 +1,11 @@
 ## For Unity
 
 - unitypackages : 幾つかのエディタ拡張 UPM集
-  - Hierarchyの表示拡張, asmdefの依存グラフ表示・編集, Scene内GameObject・Project内Assetへのショートカット
+  - Hierarchyの表示拡張
+  - asmdefの依存グラフ表示
+  - GameObject, Prefabの依存グラフ表示
+  - Scene内GameObject・Project内Assetへのショートカットリスト
+  - などなどの詰め合わせパック (UPMで個別installできます)
   - [mmzkworks-unitypackages](https://github.com/uisawara/mmzkworks-unitypackages)
 - usimplehttpserver : SimpleHttpServer for Unity
   - Unity製アプリに簡易なAPIサーバー機能を持たせるためのパッケージ
